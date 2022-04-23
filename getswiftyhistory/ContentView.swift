@@ -27,7 +27,7 @@ struct ContentView: View {
                     Button(action: {
                             print("Tapped on Choice 1")
                     }, label: {
-                        Text("Ant1")
+                        Text("Bee")
                             .font(.body)
                             .bold()
                             .multilineTextAlignment(.center)
